@@ -21,5 +21,4 @@ This version should be able to make and verify transactions on the blockchain.
 
 Feature Requirements:
 - Complete Peercoin Network Messages
-- Push transactions to the blockchain
 - Verify transactions on the blockchain
